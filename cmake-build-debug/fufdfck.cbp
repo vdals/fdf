@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="fufdfck"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fufdfck">
+				<Option output="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/fufdfck" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/."/>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/libft"/>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/minilibx"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 fufdfck"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fufdfck/fast">
+				<Option output="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/fufdfck" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/."/>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/libft"/>
+					<Add directory="/Users/vladislavsemenov/Desktop/fufdfck/minilibx"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 fufdfck/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/vladislavsemenov/Desktop/fufdfck/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/draw.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/fdf.h">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_atoi.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_bzero.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_countword.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_countwords.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_isalnum.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_isalpha.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_isascii.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_isdigit.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_isprint.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_itoa.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstadd.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstdel.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstdelone.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstiter.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstmap.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_lstnew.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memalloc.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memccpy.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memchr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memcmp.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memcpy.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memdel.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memmove.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_memset.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putchar.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putchar_fd.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putendl.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putendl_fd.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putnbr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putnbr_fd.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putstr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_putstr_fd.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strcat.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strchr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strclr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strcmp.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strcpy.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strdel.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strdup.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strequ.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_striter.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_striteri.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strjoin.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strlcat.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strlen.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strmap.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strmapi.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strncat.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strncmp.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strncpy.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strnequ.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strnew.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strnstr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strrchr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strsplit.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strstr.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strsub.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_strtrim.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_tolower.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ft_toupper.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/get_next_line.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/gwl.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/ineg.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/libft/libft.h">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/main.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/minilibx/mlx.h">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/read_file.c">
+			<Option target="fufdfck"/>
+		</Unit>
+		<Unit filename="/Users/vladislavsemenov/Desktop/fufdfck/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vladislavsemenov/Desktop/fufdfck/fdf.h
+libft/libft.h
+/Users/vladislavsemenov/Desktop/fufdfck/libft/libft.h
+minilibx/mlx.h
+/Users/vladislavsemenov/Desktop/fufdfck/minilibx/mlx.h
+math.h
+-
+
+/Users/vladislavsemenov/Desktop/fufdfck/libft/libft.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+stdio.h
+-
+limits.h
+-
+
+/Users/vladislavsemenov/Desktop/fufdfck/minilibx/mlx.h
+
+/Users/vladislavsemenov/Desktop/fufdfck/read_file.c
+fdf.h
+/Users/vladislavsemenov/Desktop/fufdfck/fdf.h
+
